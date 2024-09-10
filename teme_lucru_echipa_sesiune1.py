@@ -155,6 +155,9 @@ total=len(complet)
 
 print(f'numele lui are {total} caractere')
 
+print('dorel')
+
+
 
 
 
